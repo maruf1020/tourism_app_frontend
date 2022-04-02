@@ -1,0 +1,24 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+    .btn-padding{
+      padding: 60;
+
+
+    }
+    #admin-sign-in {
+      width:50%;
+      margin-left:25%;
+      margin-right:25%;
+  
+    }
+    .px50{
+     width: 80px;
+    }
+  }
